@@ -1,14 +1,5 @@
 /*
-
-NAME  : Mohan
-
-DATE  : 16 May, 2024
-
-TITLE : MP3 Tag reader
-
-
 This file contains main function, edit_argument, show_invalid_arguments, validate_file functions 
- 
  */
 
 #include "header.h"
